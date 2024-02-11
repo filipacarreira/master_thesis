@@ -20,28 +20,28 @@ print('got topics')
 # load saved models
 embedding_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 model_sep = BERTopic.load(
-    "/data/filipac/thesis_data/embeddings/bertopic_sep",
+    f"{input_path}/embeddings/bertopic_sep",
     embedding_model=embedding_model)
 model_oct = BERTopic.load(
-    "/data/filipac/thesis_data/embeddings/bertopic_oct",
+    f"{input_path}/embeddings/bertopic_oct",
     embedding_model=embedding_model)
 model_nov = BERTopic.load(
-    "/data/filipac/thesis_data/embeddings/bertopic_nov",
+    f"{input_path}/embeddings/bertopic_nov",
     embedding_model=embedding_model)
 model_dec = BERTopic.load(
-    "/data/filipac/thesis_data/embeddings/bertopic_dec",
+    f"{input_path}/embeddings/bertopic_dec",
     embedding_model=embedding_model)
 model_jan = BERTopic.load(
-    "/data/filipac/thesis_data/embeddings/bertopic_jan",
+    f"{input_path}/embeddings/bertopic_jan",
     embedding_model=embedding_model)
 model_feb = BERTopic.load(
-    "/data/filipac/thesis_data/embeddings/bertopic_feb",
+    f"{input_path}/embeddings/bertopic_feb",
     embedding_model=embedding_model)
 model_mar = BERTopic.load(
-    "/data/filipac/thesis_data/embeddings/bertopic_mar",
+    f"{input_path}/embeddings/bertopic_mar",
     embedding_model=embedding_model)
 model_apr = BERTopic.load(
-    "/data/filipac/thesis_data/embeddings/bertopic_apr",
+    f"{input_path}/embeddings/bertopic_apr",
     embedding_model=embedding_model)
 print('got models')
 

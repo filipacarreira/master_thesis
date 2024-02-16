@@ -12,6 +12,7 @@ To conduct our study, we gathered data from Twitter, since social media platform
 This study not only enhances our comprehension of the European community but also initiates preliminary research toward establishing an empirically valid "European Digital Identity".
 
 **Keywords**: Europe, Twitter, Topic Modeling, Natural Language Processing, BERTopic
+
 **Link for the document** [here](https://run.unl.pt/handle/10362/163657)
 
 **Final Grade: 19/20**

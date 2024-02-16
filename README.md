@@ -21,9 +21,9 @@ This study not only enhances our comprehension of the European community but als
 
 Files related with data extraction:
 - [forever.py](https://github.com/filipacarreira/master_thesis/blob/main/forever.py)
+- [twExt_v4.py](https://github.com/filipacarreira/master_thesis/blob/main/twExt_v4.py)
 - [location.json](https://github.com/filipacarreira/master_thesis/blob/main/location.json)
 - [tokens.json](https://github.com/filipacarreira/master_thesis/blob/main/tokens.json)
-- [twExt_v4.py](https://github.com/filipacarreira/master_thesis/blob/main/twExt_v4.py)
 
 File related with duplicates removal:
 - [create_json_files.py](https://github.com/filipacarreira/master_thesis/blob/main/create_json_files.py)
